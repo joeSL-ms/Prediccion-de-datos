@@ -26,7 +26,7 @@
 <div>
   Como podemos observar a ojo hay una cierta diferencia, pero vamos a llevarlo mas lejos y confirma cuanta probabilidad hay para cada caso.
 
-| Columna 1 | Columna 2 |
+| Clicks | Tiempo |
 | --------- | --------- |
 | Caso 1 | Caso 2 |
 |  En vase a la tasa de click hemos obtenido que la tasa de conversion en un 400.00%, con una probabilidad del 99.90%. Dando una seguirad de mejoria   | Usando la informacion del tiempo sabemos que la tasa de conversion en un 116.67%, con una probabilidad del 99.43%.   |
