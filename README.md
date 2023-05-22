@@ -26,5 +26,5 @@
 | --------- | --------- |
 | Caso 1 | Caso 2 |
 |  En vase a la tasa de click hemos obtenido que la tasa de conversion en un 400.00%, con una probabilidad del 99.90%. Dando una seguirad de mejoria   | Usando la informacion del tiempo sabemos que la tasa de conversion en un 116.67%, con una probabilidad del 99.43%.   |
-| <div align="center"> ![image](https://github.com/joeSL-ms/proye/assets/127346073/af1933f5-c203-4873-a0b0-5c83badce8a2)</div> | <div align="center"> ![image](https://github.com/joeSL-ms/proye/assets/127346073/284b07c1-bbac-47ee-854a-09749ab21411)</div> |
+| <div align="center" colspan="2"> ![image](https://github.com/joeSL-ms/proye/assets/127346073/af1933f5-c203-4873-a0b0-5c83badce8a2)</div> | <div align="center"> ![image](https://github.com/joeSL-ms/proye/assets/127346073/284b07c1-bbac-47ee-854a-09749ab21411)</div> |
   </div>
